@@ -17,6 +17,8 @@ public class Main {
         int fa = 45;
         int doo = 32;
         String uyt = "uyt";
-
+    }
+    public void google(){
+        System.out.println("google");
     }
 }
