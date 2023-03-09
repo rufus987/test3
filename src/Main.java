@@ -4,7 +4,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("В этой ветке пусто");
-        int test = 2;
-        int[][] array = new int[5][6];
+        String test = "Алена";
+        String test2 = "Даст";
+        test = test.concat(test2);
+        System.out.println(test);
     }
 }
