@@ -11,5 +11,8 @@ public class Main {
         } finally {
             System.out.println("OK");
         }
+
+        System.out.println("Мы обработали ошибку");
+        System.out.println("Программа продолжается");
     }
 }
