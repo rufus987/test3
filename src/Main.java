@@ -14,5 +14,9 @@ public class Main {
 
         System.out.println("Мы обработали ошибку");
         System.out.println("Программа продолжается");
+        int fa = 45;
+        int doo = 32;
+        String uyt = "uyt";
+
     }
 }
