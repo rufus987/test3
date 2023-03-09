@@ -20,11 +20,14 @@ public class Main {
     }
     public void google(){
         System.out.println("google");
+        System.out.println("Loogle");
     }
     public void yandex(){
         System.out.println("Яндекс");
+        System.out.println("Yandex");
     }
     public void bing(){
         System.out.println("Bing");
+        System.out.println("Yahoo");
     }
 }
