@@ -21,4 +21,10 @@ public class Main {
     public void google(){
         System.out.println("google");
     }
+    public void yandex(){
+        System.out.println("Яндекс");
+    }
+    public void bing(){
+        System.out.println("Bing");
+    }
 }
