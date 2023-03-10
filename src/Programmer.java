@@ -5,7 +5,6 @@ public class Programmer {
         this.name = name;
         this.company = company;
         this.position = "intern";
-
     }
 
     public static void main(String[] args) {
